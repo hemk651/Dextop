@@ -12,7 +12,7 @@ This project offers free remote desktop protocol (RDP) access, and if you're int
 
 ## how you can create your own
 <div align="center" width="100%">
-<a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR"><img src="https://github.com/hemk651/Dextop/blob/3c95d99057089953ec86e00f9fb5eb330c023d1b/8_01.jpg" width="800px" /></a>
+<a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR"><img src="https://github.com/hemk651/Dextop/blob/5f8c02b32e84f9c8be4858e3a61022e111e9afcf/IMG_20230920_200228.png" width="800px" /></a>
  <br /><a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR">Click to Play video</a>
 </div>
 
