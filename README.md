@@ -11,8 +11,18 @@
 This project offers free remote desktop protocol (RDP) access, and if you're interested, you can reach out to them via Telegram. For more information or access, check out the provided link below.
 
 ## how you can create your own
+
 <div align="center" width="100%">
 <a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR"><img src="https://github.com/hemk651/Dextop/blob/5f8c02b32e84f9c8be4858e3a61022e111e9afcf/IMG_20230920_200228.png" width="800px" /></a>
+ <br /><a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR">Click to see Meshery Playground video</a>
+</div>
+
+<br />
+<br />
+
+
+<div align="center" width="100%">
+<a href=""><img src="" width="800px" /></a>
  <br /><a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR">Click to Play video</a>
 </div>
 
