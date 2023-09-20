@@ -13,19 +13,14 @@ This project offers free remote desktop protocol (RDP) access, and if you're int
 ## how you can create your own
 
 <div align="center" width="100%">
-<a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR"><img src="https://github.com/hemk651/Dextop/blob/5f8c02b32e84f9c8be4858e3a61022e111e9afcf/IMG_20230920_200228.png" width="800px" /></a>
+<a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR"><img src="github.com/hemk651/Dextop/blob/5f8c02b32e84f9c8be4858e3a61022e111e9afcf/IMG_20230920_200228.png" width="800px" /></a>
  <br /><a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR">Click to see Meshery Playground video</a>
 </div>
 
 <br />
 <br />
 
-
-<div align="center" width="100%">
-<a href=""><img src="" width="800px" /></a>
- <br /><a href="https://youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR">Click to Play video</a>
-</div>
-
+![demo](youtu.be/XIKVxuOJGqg?si=QPUgB0eQKeYGS6vR)
 
 # file required
 - [file code]( https://github.com/hemk651/Dextop/blob/a5740f0313d24b3020c83efb6a809d7cb0922258/.github/workflows/main.yml)
